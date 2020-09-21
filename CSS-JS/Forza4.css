@@ -1,0 +1,20 @@
+body {font-family: 'ABeeZee', sans-serif;
+      text-align: center}
+
+input {font-family: 'ABeeZee', sans-serif;
+       border: 0;
+       border-radius: 7px;
+       background: #FC6C85; /* anguria */
+       padding: 6pt;
+       color: white;
+       font-weight: bold;
+       outline:none}
+
+#turno {color: grey}
+
+table {margin: auto}
+
+td {border: 3px solid;
+    border-radius: 50%;
+    width: 2cm;
+    height: 2cm}
